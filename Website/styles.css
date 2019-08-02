@@ -1,0 +1,145 @@
+.playfair_display {
+  font-family: 'Playfair Display', serif ;
+  text-align: center;
+ }
+
+.playball {
+  font-family: 'Playball', cursive;
+  text-align: center;
+}
+
+.line_1 {
+  text-align: center;
+}
+
+body {
+    background: linear-gradient(to bottom, #9933ff 0%, #00ffcc 100%)
+}
+
+.columns {
+  column-count: 3;
+}
+
+.page2 {
+  text-align: right;
+}
+/*--------------------------------------------------------------------------  */
+/*Dropdown Button*/
+.dropbtn {
+  background-color: DarkSlateBlue;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/*Positions dropdown button*/
+.dropdown {
+  position: left;
+  text-align: center;
+  display: inline-block;
+}
+
+/*Dropdown Content*/
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: purple;
+  min-width: 160px;
+  box-shadow: none
+   /* 0px 8px 16px 0px rgba(0,0,0,0.2); */
+  z-index: 1;
+}
+
+/*Links inside the dropdown*/
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #8B008B;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #8B0000;}
+/*----------------------------------------------------------------------------*/
+._dropbtn {
+  background-color: DarkSlateBlue;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/*Positions dropdown button*/
+._dropdown {
+  text-align: center;
+  display: inline-block;
+}
+
+/*Dropdown Content*/
+._dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: purple;
+  min-width: 160px;
+  box-shadow: none
+   /* 0px 8px 16px 0px rgba(0,0,0,0.2); */
+  z-index: 1;
+}
+
+/*Links inside the dropdown*/
+._dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+._dropdown-content a:hover {background-color: #8B008B;}
+
+._dropdown:hover ._dropdown-content {display: block;}
+
+._dropdown:hover ._dropbtn {background-color: #8B0000;}
+/*----------------------------------------------------------------------------*/
+.dropbtn_ {
+  background-color: DarkSlateBlue;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/*Positions dropdown button*/
+.dropdown_ {
+  position: right;
+  text-align: center;
+  display: inline-block;
+}
+
+/*Dropdown Content*/
+.dropdown-content_ {
+  display: none;
+  position: absolute;
+  background-color: purple;
+  min-width: 160px;
+  box-shadow: none
+   /* 0px 8px 16px 0px rgba(0,0,0,0.2); */
+  z-index: 1;
+}
+
+/*Links inside the dropdown*/
+.dropdown-content_a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content_a :hover {background-color: #8B008B;}
+
+.dropdown_ :hover .dropdown-content_ {display: block;}
+
+.dropdown_ :hover .dropbtn_ {background-color: #8B0000;}

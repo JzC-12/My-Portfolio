@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(216,191,216);
+}
+
+.page3 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.header1 {
+  text-align: center;
+}
+
+.homepage {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.title {
+  font-family: 'Playfair Display', serif ;
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.backdrop {
+  background: url(2018.jpg);
+  background-repeat: no-repeat;
+}

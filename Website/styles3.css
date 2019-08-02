@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(0,206,209);
+}
+
+.header {
+  text-align: center;
+}
+
+.home {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.page2 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
